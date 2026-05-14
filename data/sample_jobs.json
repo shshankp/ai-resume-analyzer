@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Northwind Analytics",
+    "location": "Remote (UK)",
+    "salary_hint": "£60k–£80k",
+    "description": "Build and deploy ML models in Python (PyTorch, scikit-learn). Experience with AWS, Docker, and CI/CD. Collaborate on NLP features and model monitoring.",
+    "url": "https://example.com/jobs/ml-engineer"
+  },
+  {
+    "title": "Full Stack Developer (React / Node)",
+    "company": "Contoso Labs",
+    "location": "London, UK",
+    "salary_hint": "£55k–£70k",
+    "description": "TypeScript, React, Node.js, PostgreSQL, REST APIs. Agile delivery, Git, code reviews, and automated testing.",
+    "url": "https://example.com/jobs/fullstack"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Fabrikam Retail",
+    "location": "Manchester, UK",
+    "salary_hint": "£38k–£48k",
+    "description": "SQL, Excel, Power BI, dashboards, stakeholder communication. Python a plus for automation.",
+    "url": "https://example.com/jobs/data-analyst"
+  },
+  {
+    "title": "Cloud DevOps Engineer",
+    "company": "Adventure Works",
+    "location": "Hybrid — Bristol",
+    "salary_hint": "£65k–£85k",
+    "description": "Kubernetes, Terraform, AWS or Azure, observability, incident response, security baselines.",
+    "url": "https://example.com/jobs/devops"
+  }
+]
